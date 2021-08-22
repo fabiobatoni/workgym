@@ -4,7 +4,7 @@ Proposta: automatizar rotinas de administração de uma academia
 
 # Linguagens:
 
-PHP
+PHP,
 Javascript
 
 # Banco de Dados
